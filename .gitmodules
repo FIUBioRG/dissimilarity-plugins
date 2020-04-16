@@ -1,0 +1,57 @@
+[submodule "ANOVA"]
+	path = ANOVA
+	url = https://github.com/verociraptor/ANOVA
+[submodule "BinomialDeviance"]
+	path = BinomialDeviance
+	url = https://github.com/movingpictures83/BinomialDeviance
+[submodule "Bray"]
+	path = Bray
+	url = https://github.com/movingpictures83/Bray
+[submodule "Canberra"]
+	path = Canberra
+	url = https://github.com/movingpictures83/Canberra
+[submodule "Chao"]
+	path = Chao
+	url = https://github.com/movingpictures83/Chao
+[submodule "EuclideanDistance"]
+	path = EuclideanDistance
+	url = https://github.com/movingpictures83/EuclideanDistance
+[submodule "Gower"]
+	path = Gower
+	url = https://github.com/movingpictures83/Gower
+[submodule "Horn"]
+	path = Horn
+	url = https://github.com/movingpictures83/Horn
+[submodule "Jaccard"]
+	path = Jaccard
+	url = https://github.com/movingpictures83/Jaccard
+[submodule "Kulczynski"]
+	path = Kulczynski
+	url = https://github.com/movingpictures83/Kulczynski
+[submodule "LMS"]
+	path = LMS
+	url = https://github.com/movingpictures83/LMS
+[submodule "Manhattan"]
+	path = Manhattan
+	url = https://github.com/movingpictures83/Manhattan
+[submodule "Morisita"]
+	path = Morisita
+	url = https://github.com/movingpictures83/Morisita
+[submodule "Mountford"]
+	path = Mountford
+	url = https://github.com/movingpictures83/Mountford
+[submodule "PCA"]
+	path = PCA
+	url = https://github.com/movingpictures83/PCA
+[submodule "PLSDA"]
+	path = PLSDA
+	url = https://github.com/movingpictures83/PLSDA
+[submodule "Raup"]
+	path = Raup
+	url = https://github.com/movingpictures83/Raup
+[submodule "SpNMF"]
+	path = SpNMF
+	url = https://github.com/movingpictures83/SpNMF
+[submodule "tSNE"]
+	path = tSNE
+	url = https://github.com/movingpictures83/tSNE
